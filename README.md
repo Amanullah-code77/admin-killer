@@ -26,6 +26,11 @@ its one of the fastest Admin Panel Finders.
  chmod +x admin-killer.py
  
  python3 admin-killer.py
+ 
+# Warning
+
+I am not responsible for any misuse or illegal purposes. Use it only for Penetration Testing or, educational purpose.
+
 
 
 
