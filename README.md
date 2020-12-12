@@ -1,13 +1,13 @@
 # Features
 Admin-Killer is an Admin Panel Finder made with Python3
-its one of the fastest Admin Panel Finders out there
+its one of the fastest Admin Panel Finders.
 
-# PREREQUISITES
+# Prerequisites
 * Python 3.x 
 * pip3
 * git
 
-# PYTHON 3 PREREQUISITES
+# Python 3 Prerequisites
 * aiohttp
 * asyncio
 
