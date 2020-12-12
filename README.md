@@ -20,8 +20,11 @@ its one of the fastest Admin Panel Finders out there
 # Running Admin-Killer
  
  cd admin-killer
+ 
  sudo pip3 install -r requirements.txt
+ 
  chmod +x admin-killer.py
+ 
  python3 admin-killer.py
 
 
